@@ -5,16 +5,16 @@ install [anaconda](https://anaconda.org/anaconda/conda)
 ```
 conda create -n <your-env> python=3.9
 conda activate <your-env>
-pip install -r requirementx.txt
+pip install -r requirements.txt
 python human-detections.py
 ```
 
-# Sample Output
+## Sample Output
 ### Snapshot
 <img src="images/samples/snapshots/snapshot_ZYK8UZck_1723360239.jpg">
 
 ### Human Detection
 <img src="images/samples/faces/human_ZOwHxJni_1723360241.jpg">
 
-## Remember
-Happy Coding 🚀🚀🚀
+##
+<center>🚀🚀🚀 Happy Coding 🚀🚀🚀</center>
